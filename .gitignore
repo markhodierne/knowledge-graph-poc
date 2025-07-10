@@ -162,11 +162,7 @@ cython_debug/
 #.idea/
 
 # Local
-mark-knowledge-graph/faiss_data/
-mark-knowledge-graph/chroma_data/
-mark-knowledge-graph/data/cat_data_science.csv
-
-mark-kg-poc-app/data/cat_data.csv
-mark-kg-poc-app/data/cat_data2.csv
+data/cat_data.csv
+data/slide_cycle_data_final.csv
 
 .DS_Store
